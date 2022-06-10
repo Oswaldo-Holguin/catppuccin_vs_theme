@@ -2,7 +2,7 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
         <Identity Id="catppuccin_vs_theme.b5978222-b354-418b-a2ec-c7cc298ff246" Version="1.0" Language="en-US" Publisher="Oswaldo-Holguin" />
-        <DisplayName>catppuccin_vs_theme</DisplayName>
+        <DisplayName>Catppuccin unofficial</DisplayName>
         <Description xml:space="preserve">Unofficial theme for Visual Studio 2022 created using the VSCode Theme Converter extension.</Description>
         <Icon>Catppuccin.ico</Icon>
     </Metadata>
